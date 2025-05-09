@@ -18,6 +18,18 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets: 
+    - assets/pao.jpeg
+    - assets/camaro.jpg
+    - assets/emi.jpeg
+    - assets/wicho.jpeg
+    - assets/zl1.jpg
+    - assets/bmw2.jpg
+    - assets/bmw.jpg
+    - assets/bocho.jpg
+    - assets/vw.png
+    - assets/challenger.jpg
+    - assets/dodge.png
   # assets:
   #  - images/a_dot_burr.jpeg
   #  - images/a_dot_ham.jpeg
